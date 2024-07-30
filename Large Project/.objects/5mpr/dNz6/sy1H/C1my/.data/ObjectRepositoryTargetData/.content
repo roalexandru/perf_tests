@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uTHty0oSXEKz8ncN1bTf1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/loans" DesignTimeRectangle="726, 581, 182, 50" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Apply For A Loan'" FullSelectorArgument="&lt;webctrl id='applyButton' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='applyButton' tag='BUTTON' type='submit' class='btn btn-white btn-xl' aaname='Apply For A Loan' check:innerText='Apply For A Loan' /&gt;" Guid="de4c8507-c260-45cc-a631-23de313983e9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Loan Home' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f0447674ccf33dc5407778b77459359f.png" xmlns="">034pTNBe4fkGehtGookqWNw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Loans",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kYtji5_ZpU2XIfJ6X6SvTA",
+  "Reference": "aphvogJu10yYV0SP7NKOVA/kYtji5_ZpU2XIfJ6X6SvTA",
+  "ParentRef": "aphvogJu10yYV0SP7NKOVA/sy1HHyA3nE-TvUhwWcNc-Q",
+  "Created": "2024-07-30T10:31:37.238739Z",
+  "Updated": "2024-07-30T10:31:37.238739Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
